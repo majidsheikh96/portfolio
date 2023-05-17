@@ -8,7 +8,7 @@ import {BsFillPersonLinesFill} from  'react-icons/bs'
 // import { useRouter } from 'next/router'
 
 
-const navbar = () => {
+const Navbar = () => {
     const [nav, setnav] = useState(false)
     const [shadow, setShadow] = useState(false)
 
@@ -119,4 +119,4 @@ const navbar = () => {
   )
 }
 
-export default navbar
+export default Navbar
