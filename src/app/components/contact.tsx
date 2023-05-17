@@ -22,7 +22,7 @@ const contact = () => {
         <div>
             <h2 className='py-2'>Mamoona Zafar</h2>
             <p>Front-End Developer</p>
-            <p className='py-4'>I am available for freelance or full-time position. Contact me and let's talk.</p>
+            <p className='py-4'>I am available for freelance or full-time position. Contact me and lets talk.</p>
         </div>
       <div>
            <p className='uppercase pt-8'>Connect With Me</p>

@@ -8,7 +8,7 @@ const Projects = () => {
     <div id='projects' className='w-full'>
         <div className='max-w-[1240px] mx-auto px-2 py-16'>
             <p className='text-xl tracking-widest uppercase text-[#2b34a8]'>projects</p>
-            <h2 className='py-4'>What I've Built</h2>
+            <h2 className='py-4'>What Ive Built</h2>
             <div className='grid md:grid-cols-2 gap-8'>
             <div className='relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl p-4 group hover:bg-gradient-to-r from-[#2b34a8] to-[#709dff]'>
                     <Image className='rounded-xl group-hover:opacity-10' src="/assests/projects/prosofticc.png" width="800" height= "800" alt=''/>
